@@ -1,0 +1,7 @@
+C:\Code\TechTests\coding-challenge-master\coding-challenge-master\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.deps.json
+C:\Code\TechTests\coding-challenge-master\coding-challenge-master\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.dll
+C:\Code\TechTests\coding-challenge-master\coding-challenge-master\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.pdb
+C:\Code\TechTests\coding-challenge-master\coding-challenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.AssemblyInfoInputs.cache
+C:\Code\TechTests\coding-challenge-master\coding-challenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.AssemblyInfo.cs
+C:\Code\TechTests\coding-challenge-master\coding-challenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.dll
+C:\Code\TechTests\coding-challenge-master\coding-challenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.pdb
